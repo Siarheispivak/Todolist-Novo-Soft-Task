@@ -2,7 +2,7 @@
   "name": "siarhei-spivak-todolist-ts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Siarheispivak.github.io/My-Todolist",
+  "homepage": "https://Siarheispivak.github.io/Todolist-Novo-Soft-Task",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
