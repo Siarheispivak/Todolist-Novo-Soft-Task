@@ -1,0 +1,34 @@
+
+.App {
+    background-color: #a29e9e;
+}
+.toolbar{
+    background-color: #ffcd00;
+    justify-content: center;
+
+}
+.typography{
+    color: black;
+}
+
+
+.App > div {
+
+}
+
+.error {
+    border: red 1px solid;
+}
+
+.error-message {
+    color: red;
+}
+
+.active-filter {
+    background-color: aquamarine;
+}
+
+.is-done {
+    opacity: 0.5;
+}
+
